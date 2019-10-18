@@ -1,6 +1,18 @@
 Android SMS Gateway Application
 ===============
 
+This is an attempt to rebuild the simple app that translate Firebase's GCM event into SMS messages on an android.
+
+This repo is a fork of Anjlab's [android sms gateway](https://github.com/anjlab/android-sms-gateway)
+
+# Contact
+
+ytbryan@gmail.com
+
+---
+
+OLD README 
+
 This is a simple and small application that translates Google Cloud Messaging (GCM) events into outgoing SMS messages on your phone.
 
 Getting Started
