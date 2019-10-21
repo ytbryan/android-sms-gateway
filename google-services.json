@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "970696825012",
+    "firebase_url": "https://sms-api-551c9.firebaseio.com",
+    "project_id": "sms-api-551c9",
+    "storage_bucket": "sms-api-551c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970696825012:android:9af2ffa16a97169b",
+        "android_client_info": {
+          "package_name": "com.anjlab.android.smsgateway.gcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970696825012-mibjg9m9rnu7boq23jelcvne78rbekkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5gAD25aBoL0uwtpwSlwfe7FE5eC2Dz-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970696825012-nnsvuna332d4drr2n4bt21a2gjoklh7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
